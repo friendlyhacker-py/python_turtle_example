@@ -63,4 +63,4 @@ t.fd(1)
 t.right(90)
 t.fd(30)
 
-time.sleep(1)
+time.sleep(2)
